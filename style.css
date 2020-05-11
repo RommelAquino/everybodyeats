@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url(http://www.aljanh.net/data/archive/img/3373991415.jpeg);
+    background-size: 100%;
+    background-attachment: fixed;
+    text-align: center;
+}
+#header {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navBar {
+    height: 200px;
+    max-width: 100%;
+    position: center;
+    background-color:rgb(204, 33, 27);
+
+}
+
+
+.fixedBackgroundImage {
+    position: relative;
+    margin: 0 auto;
+}
+
+p {
+    color: whitesmoke;
+}
+
+@media
